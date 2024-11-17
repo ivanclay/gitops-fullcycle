@@ -8,4 +8,4 @@
 ![Badge de Versão](https://img.shields.io/badge/app-v_1.0.0-green.svg?style=flat-square&logo=app)
 ![Badge de Status do Projeto](https://img.shields.io/badge/status-training-blue.svg?style=flat-square)
 
-It is a gitop course taught on the Full Cycle platform
+It is a GitOps course taught on the Full Cycle platform
