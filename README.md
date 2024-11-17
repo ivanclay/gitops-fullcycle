@@ -1,4 +1,4 @@
-# GitOps Full Cycle
+# Git Ops Full Cycle
 
 ![Badge de Licença](https://img.shields.io/badge/git-0.0.0-lightgrey.svg?style=flat-square&logo=git)
 ![Badge de Licença](https://img.shields.io/badge/golang-1.19.0-blue.svg?style=flat-square&logo=go)
@@ -15,13 +15,13 @@ It is a GitOps course taught on the Full Cycle platform
 ## Build a Docker image
 
 ```sh
-docker build -t ivanmoura/gitopsfc:latest .
+docker build -t <YOUR_DOCKER_USERNAME>/gitopsfc:latest .
 ```
 
 ## Execute app in Docker
 
 ```sh
-docker run --rm -p 8080:8080 ivanmoura/gitopsfc:latest 
+docker run --rm -p 8080:8080 <YOUR_DOCKER_USERNAME>/gitopsfc:latest 
 ```
 
 ## Create a local cluster (using `KIND`)
