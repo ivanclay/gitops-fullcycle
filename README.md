@@ -35,3 +35,5 @@ docker run --rm -p 8080:8080 <YOUR_DOCKER_USERNAME>/gitopsfc:latest
 ```sh
 kubectl cluster-info --context kind-gitopsfc
 ```
+
+**Verify GitHub Actions Permissoins**
