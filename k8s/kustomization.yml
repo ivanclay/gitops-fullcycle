@@ -8,4 +8,4 @@ resources:
 images:
  - name: goserver
    newName: wesleywillians/gitopsfc
-   newTag: sha
+   newTag: newTag
